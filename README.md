@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="left">
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://komarev.com/ghpvc/?username=onoderada2" />
+  </a>
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://img.shields.io/github/followers/onoderada2?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onoderada2&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onoderada2&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onoderada2&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onoderada2&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onoderada2&theme=gruvbox&utcOffset=9)
 
-<!--
-**onoderada2/onoderada2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=onoderada2&theme=gruvbox)
